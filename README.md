@@ -1,7 +1,7 @@
 # 💫 About Me: 
-Hi there! I'm Vignesh, Currently, I'm studying at SRM University, where I'm diving deep into CSE.I love diving into new challenges and continuously pushing the boundaries of what's possible.   
-   
+Hi there! I'm Vignesh, Currently, I'm studying at SRM University, where I'm diving deep into CSE.I love diving into new challenges and continuously pushing the boundaries of what's possible.  
 
+   
 ## 🌐 Socials:   
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vicky_xiz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vigneshv) 
  
