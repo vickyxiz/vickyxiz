@@ -1,4 +1,4 @@
-# 💫 About Me:  
+# 💫 About Me:   
 Hi there! I'm Vignesh, Currently, I'm studying at SRM University, where I'm diving deep into CSE.I love diving into new challenges and continuously pushing the boundaries of what's possible.  
      
 
