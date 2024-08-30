@@ -1,5 +1,5 @@
 # 💫 About Me: 
-Hi there! I'm Vignesh, Currently, I'm studying at SRM University, where I'm diving deep into CSE. Enthusiastic and driven B.Tech Computer Science Engineering student
+Hi there! I'm Vignesh, Currently, I'm studying at SRM University,B.Tech Computer Science Engineering student
  with akeeninterest in developing cutting-edge software
  solutions.Proven ability to work e ectively in team environments and
  manageprojects independently. Passionate about leveraging technology
