@@ -1,7 +1,7 @@
 # 💫 About Me: 
 Hi there! I'm Vignesh, Currently I'm studying at SRM University a B.Tech Computer Science Engineering student
  with akeeninterest in developing cutting-edge software
- solutions.Proven ability to work e ectively in team environments and
+ solutions.Proven ability to work e ectively in team environments and 
  manageprojects independently. Passionate about leveraging technology
  to create innovative solutions and eager to contribute to a dynamic team
  in achallenging tech environment.                
