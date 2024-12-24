@@ -7,7 +7,7 @@ Hi there! I'm Vignesh, Currently I'm studying at SRM University a B.Tech Compute
  in a challenging tech environment.                            
                                                                                  
                                                                                                                                                                           
-## 🌐 Socials:     
+## 🌐 Socials:      
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vicky_xiz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/vignesh-v-711638250) 
  
 # 💻 Tech Stack: 
