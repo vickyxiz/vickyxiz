@@ -1,4 +1,4 @@
- #💫About Me: 
+ ##💫About Me: 
 Hi there! I'm Vignesh, Currently I'm studying at SRM University a B.Tech Computer Science Engineering student
  with akeeninterest in developing cutting-edge software
  solutions.Proven ability to work e ectively in team environments and
@@ -6,7 +6,7 @@ Hi there! I'm Vignesh, Currently I'm studying at SRM University a B.Tech Compute
  to create innovative solutions and eager to contribute to a dynamic  team 
  in a challenging tech environment.                                  
                                                                                                                                                                                                                                                                             
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 ## 🌐 Socials:                      
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vicky_xiz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/vignesh-v-711638250) 
  
