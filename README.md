@@ -44,14 +44,6 @@ I'm passionate about **leveraging technology to create innovative solutions** an
 
 ---
 
-## 🚀 Fun Facts About Me
-
-- 💡 Love exploring **AI, Web Development, and Automation**  
-- 🏃‍♂️ Fitness enthusiast & coffee lover  
-- 🎮 Passionate about **gaming and tech experiments**  
-- 🌍 Always curious to **learn and innovate**
-
----
 
 <!-- Proudly crafted with ❤️ by Vignesh -->
 
