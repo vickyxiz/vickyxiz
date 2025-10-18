@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Hey+there+I'm+Vignesh;A+Software+Developer;A+Lifelong+Learner;A+Problem+Solver" alt="Typing SVG" />
   </a>
 </h1>
-# 💫 About Me 
+# 💫 About Me  
 
 Hi there! I'm **Vignesh**, a **B.Tech Computer Science Engineering** student at **SRM University**.  
 I have a **keen interest in developing cutting-edge software solutions** and a proven ability to work effectively in **team environments** while managing **projects independently**.  
